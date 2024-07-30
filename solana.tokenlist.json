@@ -1,0 +1,18 @@
+{
+      "chainId": 101,
+      "address": "J8ZELzQSq8qy95ykDFypE21FKhMd53JvnSnELBVypcXC",
+      "symbol": "QTM",
+      "name": "Quantum",
+      "decimals": 8,
+      "logoURI": https://github.com/GogetaSsj2/Quantum-Logo/blob/main/Quantum%20Logo%20PNG.png,
+      "tags": [
+        "utility-token"
+      ]
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 3
+  }
+}
